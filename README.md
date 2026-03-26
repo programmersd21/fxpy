@@ -35,7 +35,7 @@ pip install moviepy==2.2.1 numpy==2.3.1 Pillow==11.3.0
    [https://github.com/vapoursynth/vapoursynth/releases](https://github.com/vapoursynth/vapoursynth/releases)
 
 # MyBinder (dev)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/programmersd/fxpY/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/programmersd21/fxpY/HEAD)
 
 # Examples
 
